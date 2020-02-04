@@ -16,14 +16,15 @@ The Parties acknowledges and agrees that this Agreement does not grant it any ri
 5.	 Term and Termination. This Agreement shall be effective from the date hereof and shall expire on the earlier of either; the conclusion by the Parties of a further agreement in respect of the Purpose which incorporates confidentiality obligations substantially similar to those contained herein; or two years from the date hereof, or if later, the date on which all Confidential Information ceases to be of a confidential nature (other than by a breach by a Receiving Party of its obligations hereunder) provided that to the extent that a Party has disclosed information to the other Party that constitutes a trade secret under law, the receiving Party agrees that it shall (and shall procure that its affiliates and related persons shall) protect such trade secret(s) for so long as the information qualifies as a trade secret under applicable law.
 6.	  Effect of Termination. Upon expiry or termination of this Agreement or at any time on the written request of the disclosing Party, the receiving Party shall and shall procure that its affiliates or related persons shall: return to the disclosing Party all such Confidential Information (including all copies held by the receiving Party or its affiliates or related persons); destroy all copies of any analysis, compilation, studies, reports or other documents prepared by it for its use containing or reflecting or generated in whole or in part from any Confidential Information; and expunge and destroy any Confidential Information from any computer, word processor or other device in its possession containing such information; and if so requested, confirm in writing to the disclosing Party that the provisions of this section have been complied with. 
 7.	 Governing Law: This Agreement shall be governed by and construed in accordance with laws of Denmark.
+<br/>
+<br/>
 
-
-
-[Company]   								Trifork A/S
-[Company_address]							Dyssen 1, 8200 Aarhus N
-
-
-_____________________________				___________________________
-Name: [first_name] [last_name]				Name: [PM_name]
-Title: [title]								Title: [PM_title]
-Date: {now}									Date: {now} 
+|	[Company] | Trifork A/S |
+| :---: | :---: |
+|	[Company_address] |	Dyssen 1, 8200 Aarhus N |
+| | |
+| | |
+|	____________________________________ |	_____________________________________ |
+|	Name: [first_name] [last_name] | Name: [PM_name] |
+|	Title: [title] | Title: [PM_title] |
+|	Date: {now} | Date: {now} |
