@@ -7,7 +7,7 @@ I hereby grant Bull House Media ApS the right to use the photograph(s) and/or fo
 Name: [name] </br>
 Address: [address] </br>
 </br>
-Signature:
-[signature]
-…………………………………………………………………………………
-[picture]
+Signature:</br>
+[signature]</br>
+…………………………………………………………………………………</br>
+[picture]</br>
