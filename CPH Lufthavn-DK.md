@@ -3,8 +3,11 @@ Jeg giver hermed mit samtykke til at deltage i filmoptagelse [project]. Jeg give
 </br>
 </br>
 {date}
-{name}
-{address-zip}
-{e-mail}
-{signature}
-{picture}
+Navn: [name]
+Adresse: [address-zip]
+E-mail: [e-mail]
+Signatur:
+</br>
+[signature]
+____________________________
+[picture]
