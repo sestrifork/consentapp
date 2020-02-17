@@ -27,4 +27,4 @@ Signatur:<br />
 <br />
 {{signature, Din signatur}}<br /><br />
 ____________________________<br />
-{{[picture, Billede af dig}}<br />
+{{picture, Billede af dig}}<br />
