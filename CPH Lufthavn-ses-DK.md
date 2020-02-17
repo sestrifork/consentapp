@@ -22,6 +22,7 @@ København, den {{date}}
 Navn: {{name, Dit fulde navn}}<br /> 
 Adresse: {{address, Din adresse + postnummer}}<br />
 E-mail: {{e-mail, Din e-mail}}<br />
+Phone: {{phone, Dit telefonnummer}}<br />
 <br />
 Signatur:<br />
 <br />
